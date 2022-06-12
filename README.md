@@ -1,4 +1,4 @@
-# Covid Data Stats Web Scraper 
+# Covid-19 Web Scraper 
 
 Basic Web Scraper for getting latest Covid-19 Stats from <a href='https://covidlive.com.au/'>Covid Live (AU)</a>.
 
