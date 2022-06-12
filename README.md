@@ -1,6 +1,6 @@
-# Covid Data Stats Web Scrapper 
+# Covid Data Stats Web Scraper 
 
-Basic Web Scrapper for getting latest Covid-19 Stats from <a href='https://covidlive.com.au/'>Covid Live (AU)</a>.
+Basic Web Scraper for getting latest Covid-19 Stats from <a href='https://covidlive.com.au/'>Covid Live (AU)</a>.
 
 Project was made for <a href="https://www.udemy.com/course/100-days-of-code/">100 days of code on Udemey.</a>
 
